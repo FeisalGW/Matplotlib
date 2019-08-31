@@ -136,3 +136,4 @@ ax.plot_wireframe(x,y,z)
 ax.set_xlabel('ini x')
 ax.set_ylabel('ini y')
 ax.set_zlabel('ini z')
+##
